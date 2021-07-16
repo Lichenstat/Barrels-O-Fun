@@ -1,7 +1,9 @@
 Workshop link:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2142027866
 
-Made with gmod 13 libraries, just put the barrels_o_fun folder in your garrysmod/addons folder to work properly
+Made with gmod 13 libraries
+Just put the barrels_o_fun folder in your garrysmod/addons folder to work properly
+If you wish to use this mod in/for one of your own mods you have permission to do so!!!
 
 𝑩𝒂𝒓𝒓𝒆𝒍𝒔 𝑶 𝑭𝒖𝒏
 This addon is basically glorified explosive barrels.
